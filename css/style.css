@@ -1,16 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Josefin_Sans;
-}
-@font-face {
-  font-family: "Josefin_Sans";
-  src: url("../assets/Josefin_Sans/JosefinSans-Light.ttf");
-}
-@font-face {
-  font-family: "Alata";
-  src: url("../assets/Alata/Alata-Regular.ttf");
+  font-family: "Josefin Sans", sans-serif;
 }
 body {
   background-color: #fff;
@@ -54,7 +48,7 @@ div.text-banner {
   transform: translateY(-50%);
 }
 div.text-banner h1 {
-  font-family: "Josefin_Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-weight: 100;
 }
 aside {
@@ -91,7 +85,7 @@ aside ul {
 }
 aside ul li {
   line-height: 2em;
-  font-family: Josefin_Sans;
+  font-family: "Josefin Sans", sans-serif;
   font-weight: 300;
   width: 140px;
   position: relative;
@@ -137,21 +131,21 @@ section .interactive h2 {
   font-size: 29px;
   margin: 40px auto 15px auto;
   max-width: 250px;
-  font-family: Josefin_Sans;
+  font-family: "Josefin Sans", sans-serif;
   font-weight: 300;
 }
 section .interactive p {
   line-height: 1.8em;
   font-size: 14px;
-  font-family: Alata;
-  font-weight: 300;
+  font-family: "Alata", sans-serif;
+  font-weight: 400;
   color: rgb(146, 145, 145);
   width: 260px;
   margin: 0 auto;
 }
 section .gallery {
   margin: 90px 1.5rem 0;
-  font-family: Josefin_Sans;
+  font-family: "Josefin Sans", sans-serif;
   font-weight: 300;
 }
 section .gallery h2 {
@@ -278,7 +272,8 @@ footer .social-media img:first-child {
 footer p {
   color: var(--Dark-gray);
   margin-top: 12px;
-  font-family: Alata;
+  font-family: "Alata", sans-serif;
+  font-weight: 400;
   font-size: 13.8px;
 }
 @media screen and (max-width: 374px) {
@@ -424,14 +419,14 @@ footer p {
     font-size: 29px;
     margin: 17px auto 15px;
     width: 300px;
-    font-family: Josefin_Sans;
-    font-weight: 300;
+    font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
   }
   section .interactive p {
     line-height: 1.8em;
     font-size: 14px;
-    font-family: Alata;
-    font-weight: 300;
+    font-family: "Alata", sans-serif;
+  font-weight: 400;
     color: rgb(146, 145, 145);
     width: auto;
     margin: 0 auto 0;

@@ -132,7 +132,7 @@ section .interactive h2 {
   margin: 40px auto 15px auto;
   max-width: 250px;
   font-family: "Josefin Sans", sans-serif;
-  font-weight: 300;
+  font-weight: 200;
 }
 section .interactive p {
   line-height: 1.8em;
@@ -152,7 +152,7 @@ section .gallery h2 {
   text-transform: uppercase;
   font-size: 29px;
   margin: 40px 0;
-  font-weight: 300;
+  font-weight: 200;
 }
 section .gallery img.desktop {
   display: none;
@@ -420,7 +420,7 @@ footer p {
     margin: 17px auto 15px;
     width: 300px;
     font-family: "Josefin Sans", sans-serif;
-  font-weight: 300;
+  font-weight: 200;
   }
   section .interactive p {
     line-height: 1.8em;

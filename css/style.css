@@ -551,14 +551,14 @@ footer p {
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;
-    height: 648px;
+    height: 643px;
     position: relative;
   }
   div.text-banner {
     width: 1100px;
     margin: 0 auto;
     height: auto;
-    top: 350px;
+    top: 355px;
     padding: 0 0 0 1.5rem;
   }
   div.text-banner .banner-h1{
